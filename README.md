@@ -1,1 +1,0 @@
-# MazeRecursionExercise.c
